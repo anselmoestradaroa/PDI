@@ -6,3 +6,4 @@
 
 ## Jueves 14 de abril del 2022
 1. Envié el link del repo al asistente
+2. Descargué el trabajo práctico 2
